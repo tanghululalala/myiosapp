@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://cwgx.yili.com:8080/srmapp/ylclient.ipa</string>
+					<string>http://cwgx.yili.com:8080/ehsqapp/ylclient.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://cwgx.yili.com:8080/srmapp/logo57.png</string>
+					<string>http://cwgx.yili.com:8080/ehsqapp/logo57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://cwgx.yili.com:8080/srmapp/logo512.png</string>
+					<string>http://cwgx.yili.com:8080/ehsqapp/logo512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
